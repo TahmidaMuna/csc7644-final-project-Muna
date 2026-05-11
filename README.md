@@ -10,7 +10,7 @@
 
 This is the final project for **CSC 7644: Applied LLM Development** at Louisiana State University.
 
-Louisiana oil and gas companies regularly commit CSR (Corporate Social Responsibility) budgets to community recovery after major disasters such as hurricanes, floods, and winter storms. Today, allocation decisions rely on proximity to company facilities, media coverage, or informal networks — none of which systematically identifies the communities with the greatest objective need.
+Louisiana oil and gas companies regularly commit CSR (Corporate Social Responsibility) budgets to community recovery after major disasters such as hurricanes, floods, and winter storms. Today, allocation decisions rely on proximity to company facilities, media coverage, or informal networks, none of which systematically identifies the communities with the greatest objective need.
 
 This project builds an **agentic LLM application** that turns that subjective process into a transparent, data-driven one. Given a FEMA disaster declaration number as input, the agent automatically identifies all affected Louisiana parishes, retrieves hazard severity and social vulnerability data from federal public APIs, ranks parishes by a weighted composite need score, and generates a plain-language CSR allocation report with every figure cited back to its source.
 
