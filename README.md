@@ -2,7 +2,7 @@
 
 **CSC 7644: Applied LLM Development — Final Project**  
 **Author:** Tahmida Sarker Muna | Louisiana State University  
-**Advisor:** Dr. Nazla Bushra | Department of Oceanography and Coastal Sciences
+
 
 ---
 
