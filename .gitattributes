@@ -1,0 +1,13 @@
+*.pdf filter=lfs diff=lfs merge=lfs -text
+*.pkl filter=lfs diff=lfs merge=lfs -text
+data/*.csv filter=lfs diff=lfs merge=lfs -text
+LA_Parishes/*.shp filter=lfs diff=lfs merge=lfs -text
+LA_Parishes/*.dbf filter=lfs diff=lfs merge=lfs -text
+LA_Parishes/*.shx filter=lfs diff=lfs merge=lfs -text
+LA_Parishes/*.prj filter=lfs diff=lfs merge=lfs -text
+LA_Parishes/*.cpg filter=lfs diff=lfs merge=lfs -text
+data/LA_Parishes/*.prj filter=lfs diff=lfs merge=lfs -text
+data/LA_Parishes/*.cpg filter=lfs diff=lfs merge=lfs -text
+data/LA_Parishes/*.shp filter=lfs diff=lfs merge=lfs -text
+data/LA_Parishes/*.dbf filter=lfs diff=lfs merge=lfs -text
+data/LA_Parishes/*.shx filter=lfs diff=lfs merge=lfs -text

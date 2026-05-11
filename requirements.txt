@@ -1,0 +1,21 @@
+# Core LLM and API
+openai>=1.30.0
+
+# Web application
+streamlit>=1.35.0
+folium
+streamlit-folium
+
+# HTTP requests
+requests>=2.31.0
+
+# RAG dependencies
+faiss-cpu>=1.8.0
+numpy>=1.26.0
+geopandas
+
+# PDF text extraction for RAG corpus
+pymupdf>=1.24.0
+
+# Utilities
+python-dotenv>=1.0.0
